@@ -1,0 +1,16 @@
+.donations-header {
+	display: flex;
+}
+.custom-amount {
+  max-width: 15rem;
+}
+.checkout-heading {
+  text-align: center;
+}
+
+.amount-button-group {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+

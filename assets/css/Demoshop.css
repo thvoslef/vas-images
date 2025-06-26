@@ -1,0 +1,60 @@
+.donations > * {
+   font-family: cursive;
+}
+
+.btn.btn-primary {
+	background-color: green;
+	color: white;
+}
+
+.donations-header {
+  text-align: center;
+}
+.donations-heading h2 {
+  color: blue;
+}
+.donations-heading p {
+  font-size: small;
+}
+.custom-amount {
+  max-width: 15rem;
+}
+
+.checkout-heading {
+  text-align: center;
+}
+
+.amount-heading {
+  text-align: center;
+}
+
+.amount-button-group {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.donations-footer {
+  text-align: center;
+}
+
+.contact-info-heading {
+  text-align: center;
+}
+
+.donation-receipt {
+  text-align: center;
+}
+.donation-notpaid {
+  text-align: center;
+}
+
+.donation-receipt .btn.btn-secondary {
+    margin:0 auto;
+    display:block;
+}
+
+.donation-notpaid .btn.btn-primary {
+    margin:0 auto;
+    display:block;
+}
